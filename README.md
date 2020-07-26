@@ -16,3 +16,5 @@ This model analyses the sentiments of tweets regarding the lockdown in India and
 The complete dataset is first obtained from Kaggle/IEEE data port and split into training and testing data. The training dataset is to be vectorized and then used to train models such as logistic regression, multinomial Naïve Bayes, K-Nearest Neighbours, random forest classifier. The polarities of the tweets under each model are also checked after which model testing is also done.
 The predictive model, once built, can now be used for sentiment classification of tweets in real time by setting up and utilizing a Twitter API.
 
+drive link for data  & source code is given below:
+https://drive.google.com/drive/folders/1NY15hA8A-iO-Euidf1w3Z3gVLcZfxJMS?usp=sharing
