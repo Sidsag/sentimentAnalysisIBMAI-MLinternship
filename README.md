@@ -1,4 +1,4 @@
-# sentimentaAnalysisIBMAIinternshipil
+# sentiment Analysis
  SENTIMENT ANALYSIS OF TWEETS REGARDING PEOPLE"S REACTION TO  LOCKDOWN ANNOUNCEMENTS
 a. Overview
 Sentiment analysis is the process of mining of patterns in texts in order to determine the sentiment or opinion being conveyed in the text. Using sentiment analysis, we can determine the emotion of the text being analyzed and “compute” the positivity, negativity or the neutrality of the tone of the text .Twitter, a popular micro blogging site, provides a huge amount of data regarding the   sentiments of people with respect to an event or a product.                           
